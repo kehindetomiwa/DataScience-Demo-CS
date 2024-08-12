@@ -1,1 +1,1 @@
-
+[![Python application test with Github Actions](https://github.com/kehindetomiwa/DataScience-Demo-CS/actions/workflows/pylint.yml/badge.svg)](https://github.com/kehindetomiwa/DataScience-Demo-CS/actions/workflows/pylint.yml)
